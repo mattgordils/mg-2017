@@ -1,0 +1,12 @@
+title: Home
+pages: false
+fields:
+  title:
+    label: Title
+    type:  text
+  description:
+    label: Description
+    type:  text
+  about:
+    label: About
+    type:  textarea
