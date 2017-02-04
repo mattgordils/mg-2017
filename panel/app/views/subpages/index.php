@@ -6,6 +6,8 @@
       <?php else: ?>
       <?php _l('subpages.index.headline') ?> <a href="<?php __($page->url('edit')) ?>"><?php __($page->title()) ?></a>
       <?php endif ?>
+
+      poop
     </span>
     <span class="hgroup-options shiv shiv-dark shiv-left cf">
 

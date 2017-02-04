@@ -1,0 +1,128 @@
+Title: Eames
+
+----
+
+Thumbnail: eames-detail4.jpg
+
+----
+
+Thumbsize: auto
+
+----
+
+Thumbstyle: normal
+
+----
+
+Mattecolor: #cccccc
+
+----
+
+Tags: Print
+
+----
+
+Builder: 
+
+- 
+  picture: eames-detail-1.jpg
+  video: ""
+  style: none
+  logobgcolor: '#ffffff'
+  width: col-12
+  _fieldset: imageBlock
+- 
+  picture: eames-detail-2.jpg
+  video: ""
+  style: none
+  logobgcolor: '#ffffff'
+  width: col-12
+  _fieldset: imageBlock
+- 
+  picture: eames-spread3.jpg
+  video: ""
+  style: none
+  logobgcolor: '#ffffff'
+  width: col-12
+  _fieldset: imageBlock
+- 
+  picture: eames-spread4.jpg
+  video: ""
+  style: none
+  logobgcolor: '#ffffff'
+  width: col-6
+  _fieldset: imageBlock
+- 
+  picture: eames-spread5.jpg
+  video: ""
+  style: none
+  logobgcolor: '#ffffff'
+  width: col-6
+  _fieldset: imageBlock
+- 
+  picture: eames-detail4.jpg
+  video: ""
+  style: none
+  logobgcolor: '#ffffff'
+  width: col-12
+  _fieldset: imageBlock
+- 
+  picture: eames-spread7.jpg
+  video: ""
+  style: none
+  logobgcolor: '#ffffff'
+  width: col-6
+  _fieldset: imageBlock
+- 
+  picture: eames-spread10.jpg
+  video: ""
+  style: none
+  logobgcolor: '#ffffff'
+  width: col-6
+  _fieldset: imageBlock
+- 
+  picture: eames-spread8.jpg
+  video: ""
+  style: none
+  logobgcolor: '#ffffff'
+  width: col-6
+  _fieldset: imageBlock
+- 
+  picture: eames-spread11.jpg
+  video: ""
+  style: none
+  logobgcolor: '#ffffff'
+  width: col-6
+  _fieldset: imageBlock
+- 
+  picture: eames-detail-3.jpg
+  video: ""
+  style: none
+  logobgcolor: '#ffffff'
+  width: col-12
+  _fieldset: imageBlock
+- 
+  picture: eames-spread6.jpg
+  video: ""
+  style: none
+  logobgcolor: '#ffffff'
+  width: col-6
+  _fieldset: imageBlock
+- 
+  picture: eames-spread6b.jpg
+  video: ""
+  style: none
+  logobgcolor: '#ffffff'
+  width: col-6
+  _fieldset: imageBlock
+- 
+  picture: eames-spread12.jpg
+  video: ""
+  style: none
+  logobgcolor: '#ffffff'
+  width: col-12
+  _fieldset: imageBlock
+
+----
+
+Thumbmattecolor: #cccccc

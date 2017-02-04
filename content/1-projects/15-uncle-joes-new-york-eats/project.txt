@@ -1,0 +1,29 @@
+Title: Uncle Joe’s New York Eats
+
+----
+
+Thumbnail: ujnye-thumb.png
+
+----
+
+Thumbsize: auto
+
+----
+
+Thumbstyle: contained
+
+----
+
+Thumbmattecolor: #f2f2f2
+
+----
+
+Mattecolor: #dddddd
+
+----
+
+Tags: 
+
+----
+
+Builder: 

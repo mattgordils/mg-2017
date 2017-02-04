@@ -1,0 +1,29 @@
+Title: DropSplash
+
+----
+
+Thumbnail: ds-thumb.gif
+
+----
+
+Thumbsize: col wide
+
+----
+
+Thumbstyle: padded
+
+----
+
+Mattecolor: #000000
+
+----
+
+Tags: Product Design,Branding
+
+----
+
+Builder: 
+
+----
+
+Thumbmattecolor: #000000

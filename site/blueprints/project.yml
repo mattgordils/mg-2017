@@ -1,17 +1,140 @@
 title: Project
-pages: false
+
 files:
   sortable: true
+
+pages: false
+
 fields:
   title:
     label: Title
     type:  text
-  year:
-    label: Year
-    type:  text
-  text:
-    label: Text
-    type:  textarea
+
+  thumbnail:
+    label: Thumbnail
+    type:  image
+    width: 1/2
+
+  thumbSize:
+    label: Thumbnail Size
+    type:  select
+    width: 1/2
+    default: auto
+    options:
+      auto: 1/3
+      col medium: 1/2
+      col wide: 2/3
+      col full: full
+      col quarter: Quarter
+
+  thumbStyle:
+    label: Thumbnail Style
+    type:  select
+    default: normal
+    options:
+      normal: Normal
+      padded: Padded
+      contained: Contained
+      bottom-right: Cropped Bottom Right
+
+  thumbMatteColor:
+    label: Thumb Matte Color <br><span class="panel-field-description">To be used on padded thumbnails</span>
+    description: (to be used on padded thumbnails and across web layouts)
+    type:  color
+    default: '#cccccc'
+
+  matteColor:
+    label: Matte Color <br><span class="panel-field-description">To be used web and mobile layouts</span>
+    description: (to be used on padded thumbnails and across web layouts)
+    type:  color
+    default: '#e3e3e3'
+
   tags:
     label: Tags
     type:  tags
+
+  builder:
+    label: Sections
+    type: builder
+    fieldsets:
+      imageBlock:
+        label: Image
+        snippet: sections/imageBlock
+        fields:
+          picture:
+            label: Image
+            type: image
+            width: 1/2
+          video: 
+            label: Video
+            type: select
+            options: videos
+            width: 1/2
+          # style:
+          #   label: Styling
+          #   type: select
+          #   default: none
+          #   width: 1/2
+          #   options:
+          #     none: Normal
+          #     web-layout: Web
+          #     mobile: Mobile
+          #     logo: Logo
+          style:
+            label: Styling
+            type: fieldtoggle
+            default: none
+            options:
+              none: Normal
+              web-layout: Web
+              mobile: Mobile
+              logo: Logo
+            show:
+              logo: logoBgColor
+            hide:
+              none: logoBgColor
+          logoBgColor:
+            label: Logo Background
+            type: color
+            default: '#ffffff'
+          width:
+            label: width
+            type: select
+            default: col-12
+            width: 1/2
+            options:
+              col-12: Wide
+              full: Full Width
+              col-6: 1/2
+              col-4: 1/3
+              col-8: 2/3
+              col-3: 1/4
+              col-6 no-gutter: No Gutter 1/2 Left
+              col-6 no-gutter on-right: No Gutter 1/2 Right
+              col-4 no-gutter: No Gutter 1/3 Left
+              col-4 no-gutter in-middle: No Gutter 1/3 Center
+              col-4 no-gutter on-right: No Gutter 1/3 Right
+      videoBlock:
+        label: Video
+        snippet: builder/videoBlock
+        fields:
+          text:
+            label: Text
+            type: text
+      bodytext:
+        label: Body Text
+        # snippet: sections/bodytext
+        fields:
+          text:
+            label: text
+            type: textarea
+      imageBanner:
+        label: Image Banner
+        snippet: builder/imagebanner
+        fields:
+          picture:
+            label: Background Image
+            type: image
+          text:
+            label: Headline Text
+            type: text

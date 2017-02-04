@@ -1,0 +1,14 @@
+// .page {
+// 	@include opacity(0);
+// 	transition: opacity .85s .5s $ease;
+// 	.main {
+// 		transform: translate3d(0, 15vh, 0);
+// 		transition: transform .5s .4s $ease;
+// 	}
+// 	&.loaded {
+// 		@include opacity(1);
+// 		.main {
+// 			transform: translate3d(0, 0, 0);
+// 		}
+// 	}
+// }

@@ -1,14 +1,23 @@
-  <footer class="footer cf" role="contentinfo">
 
-    <div class="copyright">
-      <?php echo $site->copyright()->kirbytext() ?>
-    </div>
+	<footer class="dark">
+		<div class="container">
+			<div class="inline-grid">
+				<div class="col-6 align-left">
+					<p><a href="#">mattgordils@gmail.com</a> Queens, New York</p>
+				</div>
+				<div class="col-6 align-right">
+					<a href="#">Dribbble</a>
+					<a href="#">Pinterest</a>
+					<a href="#">Instagram</a>
+					<a href="#">Codepen</a>
+				</div>
+			</div>
+		</div>
+	</footer>
 
-    <div class="colophon">
-      <a href="http://getkirby.com/made-with-kirby-and-love">Made with Kirby and <b>♥</b></a>
-    </div>
+  </div><!--close .cc-->
+  </div><!--close .page-->
 
-  </footer>
-
+  <?= js('assets/js/main.js') ?>
 </body>
 </html>

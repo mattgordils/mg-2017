@@ -1,0 +1,29 @@
+Title: Sailing Collective
+
+----
+
+Thumbnail: sc-patch-1500.png
+
+----
+
+Thumbsize: col wide
+
+----
+
+Thumbstyle: normal
+
+----
+
+Mattecolor: #f5f5f5
+
+----
+
+Tags: 
+
+----
+
+Builder: 
+
+----
+
+Thumbmattecolor: #cccccc

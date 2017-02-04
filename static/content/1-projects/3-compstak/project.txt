@@ -1,0 +1,29 @@
+Title: CompStak
+
+----
+
+Thumbnail: 
+
+----
+
+Thumbsize: auto
+
+----
+
+Thumbstyle: normal
+
+----
+
+Mattecolor: #dddddd
+
+----
+
+Tags: 
+
+----
+
+Builder: 
+
+----
+
+Thumbmattecolor: #cccccc

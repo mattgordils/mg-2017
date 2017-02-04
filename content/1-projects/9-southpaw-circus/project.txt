@@ -1,0 +1,29 @@
+Title: Southpaw Circus
+
+----
+
+Thumbnail: southpaw-thumb.gif
+
+----
+
+Thumbsize: auto
+
+----
+
+Thumbstyle: normal
+
+----
+
+Thumbmattecolor: #cccccc
+
+----
+
+Mattecolor: #dddddd
+
+----
+
+Tags: 
+
+----
+
+Builder: 

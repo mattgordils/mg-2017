@@ -1,0 +1,29 @@
+Title: Nachume Miller
+
+----
+
+Thumbnail: nm-thumb.png
+
+----
+
+Thumbsize: auto
+
+----
+
+Thumbstyle: normal
+
+----
+
+Thumbmattecolor: #cccccc
+
+----
+
+Mattecolor: #dddddd
+
+----
+
+Tags: 
+
+----
+
+Builder: 

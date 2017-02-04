@@ -4,7 +4,6 @@
 
   <div class="mainbar">
     <div class="section">
-
       <?php if(!$page->isWritable()): ?>
       <div class="form">
         <h2 class="hgroup hgroup-single-line hgroup-compressed cf">
@@ -22,6 +21,8 @@
       <?php else: ?>
       <?php echo $form ?>
       <?php endif ?>
+
+      <?php echo $subpages ?>
 
     </div>
   </div>

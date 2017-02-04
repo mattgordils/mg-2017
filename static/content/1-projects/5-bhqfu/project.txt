@@ -1,0 +1,29 @@
+Title: BHQFU
+
+----
+
+Thumbnail: bhqfu-class-750.png
+
+----
+
+Thumbsize: auto
+
+----
+
+Thumbstyle: padded
+
+----
+
+Mattecolor: #eeeeee
+
+----
+
+Tags: 
+
+----
+
+Builder: 
+
+----
+
+Thumbmattecolor: #008af7

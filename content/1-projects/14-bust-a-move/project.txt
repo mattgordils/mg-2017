@@ -1,0 +1,107 @@
+Title: Bust A Move
+
+----
+
+Thumbnail: bust-a-move-thumb.gif
+
+----
+
+Thumbsize: auto
+
+----
+
+Thumbstyle: contained
+
+----
+
+Thumbmattecolor: #ef5f23
+
+----
+
+Mattecolor: #dddddd
+
+----
+
+Tags: 
+
+----
+
+Builder: 
+
+- 
+  picture: bust-a-move-thumb.gif
+  video: ""
+  style: logo
+  logobgcolor: '#ef5f23'
+  width: col-12
+  _fieldset: imageBlock
+- 
+  picture: bust-a-move-spread1.jpg
+  video: ""
+  style: none
+  logobgcolor: '#ffffff'
+  width: col-12
+  _fieldset: imageBlock
+- 
+  picture: bust-a-move-spread2.jpg
+  video: ""
+  style: none
+  logobgcolor: '#ffffff'
+  width: col-6
+  _fieldset: imageBlock
+- 
+  picture: bust-a-move-spread3.jpg
+  video: ""
+  style: none
+  logobgcolor: '#ffffff'
+  width: col-6
+  _fieldset: imageBlock
+- 
+  picture: bust-a-move-detail-5.jpg
+  video: ""
+  style: logo
+  logobgcolor: '#ffffff'
+  width: col-8
+  _fieldset: imageBlock
+- 
+  picture: bust-a-move-spread4.jpg
+  video: ""
+  style: none
+  logobgcolor: '#ffffff'
+  width: col-12
+  _fieldset: imageBlock
+- 
+  picture: bust-a-move-detail-3.jpg
+  video: ""
+  style: none
+  logobgcolor: '#ffffff'
+  width: col-4 no-gutter
+  _fieldset: imageBlock
+- 
+  picture: bust-a-move-detail-2.jpg
+  video: ""
+  style: none
+  logobgcolor: '#ffffff'
+  width: col-4 no-gutter in-middle
+  _fieldset: imageBlock
+- 
+  picture: bust-a-move-detail-1.jpg
+  video: ""
+  style: none
+  logobgcolor: '#ffffff'
+  width: col-4 no-gutter on-right
+  _fieldset: imageBlock
+- 
+  picture: bust-a-move-spread5.jpg
+  video: ""
+  style: none
+  logobgcolor: '#ffffff'
+  width: col-6
+  _fieldset: imageBlock
+- 
+  picture: bust-a-move-spread6.jpg
+  video: ""
+  style: none
+  logobgcolor: '#ffffff'
+  width: col-6
+  _fieldset: imageBlock

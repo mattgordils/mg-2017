@@ -1,0 +1,35 @@
+footer {
+	.container {
+		height: 6rem;
+		width: 100%;
+		max-width: 100%;
+		padding: 2.15rem;
+	}
+	a {
+		@include respond($md) {
+			display: inline-block;
+			border: none;
+		}
+	}
+	.inline-grid {
+		.inline-grid {
+			padding: 0;
+		}
+	}
+	.align-left {
+		@include respond($md) {
+			text-align: left;
+			a {
+				margin-right: 5%;
+			}
+		}
+	}
+	.align-right {
+		@include respond($md) {
+			text-align: right;
+			a {
+				margin-left: 5%;
+			}
+		}
+	}
+}

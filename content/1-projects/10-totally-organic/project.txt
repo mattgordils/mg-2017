@@ -1,0 +1,29 @@
+Title: Totally Organic
+
+----
+
+Thumbnail: totally-organic-thumb.jpg
+
+----
+
+Thumbsize: auto
+
+----
+
+Thumbstyle: normal
+
+----
+
+Mattecolor: #cccccc
+
+----
+
+Tags: 
+
+----
+
+Builder: 
+
+----
+
+Thumbmattecolor: #cccccc

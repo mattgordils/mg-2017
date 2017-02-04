@@ -2,13 +2,13 @@
 
 username: mattgordils
 password: >
-  $2a$10$iEER5zFfh2ws0fhjJOxJYOQSz3H6W7YuNV8CYHGHFJ.FMf7Of18Ha
+  $2a$10$pGTwwAU61xW./ZijyFmARu1wtxEqxtmsre7Mv/FwPNDO4UyLpSonS
 email: mattgordils@gmail.com
 language: en
 role: admin
 history:
-  - projects
-  - projects/bhqfu
   - projects/commune
-  - projects/totally-organic
-  - projects/honor
+  - projects/bust-a-move
+  - projects/eames
+  - projects/uncle-joes-new-york-eats
+  - projects/sailing-collective
