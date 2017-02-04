@@ -24,7 +24,7 @@ c::set([
 	'staticbuilder'            => true,
   'staticbuilder.outputdir'  => 'static',
   'staticbuilder.assets'     => ['assets', 'content', 'thumbs'],
-  'staticbuilder.baseurl'    => '.',
+  'staticbuilder.baseurl'    => '/mg-2017/',
   'staticbuilder.uglyurls'   => false,
   'staticbuilder.extension'  => '.html',
   'staticbuilder.filter'     => null,
