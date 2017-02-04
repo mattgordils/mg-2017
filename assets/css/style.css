@@ -93,7 +93,7 @@ a {
 /* line 30, ../../site/scss/setup/_global.scss */
 .container {
   margin: 0 auto;
-  width: 85%;
+  width: 90%;
   max-width: 1200px;
   position: relative;
 }
@@ -528,8 +528,8 @@ Containers columns
     display: block;
     min-width: 100%;
     *zoom: 1;
-    margin-left: -1.97368%;
-    margin-right: -1.97368%;
+    margin-left: -2.63158%;
+    margin-right: -2.63158%;
   }
   /* line 138, ../../site/scss/setup/_mixins.scss */
   .row:not(.no-break):not(.break-lg):not(.break-xlg):not(.break-sm):before, .row:not(.no-break):not(.break-lg):not(.break-xlg):not(.break-sm):after {
@@ -550,8 +550,8 @@ Containers columns
     position: relative;
     margin-top: 0;
     margin-left: 0;
-    padding-left: 1.875%;
-    padding-right: 1.875%;
+    padding-left: 2.5%;
+    padding-right: 2.5%;
   }
   /* line 66, ../../site/scss/setup/_grid.scss */
   .row:not(.no-break):not(.break-lg):not(.break-xlg):not(.break-sm) > .col.middle,
@@ -945,8 +945,8 @@ Containers columns
   display: block;
   min-width: 100%;
   *zoom: 1;
-  margin-left: -1.97368%;
-  margin-right: -1.97368%;
+  margin-left: -2.63158%;
+  margin-right: -2.63158%;
 }
 /* line 138, ../../site/scss/setup/_mixins.scss */
 .row.no-break:before, .row.no-break:after {
@@ -967,8 +967,8 @@ Containers columns
   position: relative;
   margin-top: 0;
   margin-left: 0;
-  padding-left: 1.875%;
-  padding-right: 1.875%;
+  padding-left: 2.5%;
+  padding-right: 2.5%;
 }
 /* line 66, ../../site/scss/setup/_grid.scss */
 .row.no-break > .col.middle,
@@ -1360,8 +1360,8 @@ Containers columns
     display: block;
     min-width: 100%;
     *zoom: 1;
-    margin-left: -1.97368%;
-    margin-right: -1.97368%;
+    margin-left: -2.63158%;
+    margin-right: -2.63158%;
   }
   /* line 138, ../../site/scss/setup/_mixins.scss */
   .row.break-lg:before, .row.break-lg:after {
@@ -1382,8 +1382,8 @@ Containers columns
     position: relative;
     margin-top: 0;
     margin-left: 0;
-    padding-left: 1.875%;
-    padding-right: 1.875%;
+    padding-left: 2.5%;
+    padding-right: 2.5%;
   }
   /* line 66, ../../site/scss/setup/_grid.scss */
   .row.break-lg > .col.middle,
@@ -1778,8 +1778,8 @@ Containers columns
     display: block;
     min-width: 100%;
     *zoom: 1;
-    margin-left: -1.97368%;
-    margin-right: -1.97368%;
+    margin-left: -2.63158%;
+    margin-right: -2.63158%;
   }
   /* line 138, ../../site/scss/setup/_mixins.scss */
   .row.break-xlg:before, .row.break-xlg:after {
@@ -1800,8 +1800,8 @@ Containers columns
     position: relative;
     margin-top: 0;
     margin-left: 0;
-    padding-left: 1.875%;
-    padding-right: 1.875%;
+    padding-left: 2.5%;
+    padding-right: 2.5%;
   }
   /* line 66, ../../site/scss/setup/_grid.scss */
   .row.break-xlg > .col.middle,
@@ -2202,8 +2202,8 @@ Containers columns
     display: block;
     min-width: 100%;
     text-align: left;
-    margin-left: -1.97368%;
-    margin-right: -1.97368%;
+    margin-left: -2.63158%;
+    margin-right: -2.63158%;
   }
   /* line 55, ../../site/scss/setup/_grid.scss */
   .inline-grid:not(.no-break):not(.break-lg):not(.break-xlg):not(.break-sm) > .col,
@@ -2215,8 +2215,8 @@ Containers columns
     position: relative;
     margin-top: 0;
     margin-left: 0;
-    padding-left: 1.875%;
-    padding-right: 1.875%;
+    padding-left: 2.5%;
+    padding-right: 2.5%;
   }
   /* line 66, ../../site/scss/setup/_grid.scss */
   .inline-grid:not(.no-break):not(.break-lg):not(.break-xlg):not(.break-sm) > .col.middle,
@@ -2640,8 +2640,8 @@ Containers columns
     margin-top: 0;
     margin-left: 0;
     margin-right: -.25em;
-    padding-left: 1.875%;
-    padding-right: 1.875%;
+    padding-left: 2.5%;
+    padding-right: 2.5%;
   }
   /* line 89, ../../site/scss/setup/_grid.scss */
   .inline-grid:not(.no-break):not(.break-lg):not(.break-xlg):not(.break-sm) .col-1 {
@@ -3009,8 +3009,8 @@ Containers columns
   display: block;
   min-width: 100%;
   text-align: left;
-  margin-left: -1.97368%;
-  margin-right: -1.97368%;
+  margin-left: -2.63158%;
+  margin-right: -2.63158%;
 }
 /* line 55, ../../site/scss/setup/_grid.scss */
 .inline-grid.no-break > .col,
@@ -3022,8 +3022,8 @@ Containers columns
   position: relative;
   margin-top: 0;
   margin-left: 0;
-  padding-left: 1.875%;
-  padding-right: 1.875%;
+  padding-left: 2.5%;
+  padding-right: 2.5%;
 }
 /* line 66, ../../site/scss/setup/_grid.scss */
 .inline-grid.no-break > .col.middle,
@@ -3445,8 +3445,8 @@ Containers columns
   margin-top: 0;
   margin-left: 0;
   margin-right: -.25em;
-  padding-left: 1.875%;
-  padding-right: 1.875%;
+  padding-left: 2.5%;
+  padding-right: 2.5%;
 }
 /* line 89, ../../site/scss/setup/_grid.scss */
 .inline-grid.no-break .col-1 {
@@ -3814,8 +3814,8 @@ Containers columns
     display: block;
     min-width: 100%;
     text-align: left;
-    margin-left: -1.97368%;
-    margin-right: -1.97368%;
+    margin-left: -2.63158%;
+    margin-right: -2.63158%;
   }
   /* line 55, ../../site/scss/setup/_grid.scss */
   .inline-grid.break-sm > .col,
@@ -3827,8 +3827,8 @@ Containers columns
     position: relative;
     margin-top: 0;
     margin-left: 0;
-    padding-left: 1.875%;
-    padding-right: 1.875%;
+    padding-left: 2.5%;
+    padding-right: 2.5%;
   }
   /* line 66, ../../site/scss/setup/_grid.scss */
   .inline-grid.break-sm > .col.middle,
@@ -4252,8 +4252,8 @@ Containers columns
     margin-top: 0;
     margin-left: 0;
     margin-right: -.25em;
-    padding-left: 1.875%;
-    padding-right: 1.875%;
+    padding-left: 2.5%;
+    padding-right: 2.5%;
   }
   /* line 89, ../../site/scss/setup/_grid.scss */
   .inline-grid.break-sm .col-1 {
@@ -4622,8 +4622,8 @@ Containers columns
     display: block;
     min-width: 100%;
     text-align: left;
-    margin-left: -1.97368%;
-    margin-right: -1.97368%;
+    margin-left: -2.63158%;
+    margin-right: -2.63158%;
   }
   /* line 55, ../../site/scss/setup/_grid.scss */
   .inline-grid.break-lg > .col,
@@ -4635,8 +4635,8 @@ Containers columns
     position: relative;
     margin-top: 0;
     margin-left: 0;
-    padding-left: 1.875%;
-    padding-right: 1.875%;
+    padding-left: 2.5%;
+    padding-right: 2.5%;
   }
   /* line 66, ../../site/scss/setup/_grid.scss */
   .inline-grid.break-lg > .col.middle,
@@ -5060,8 +5060,8 @@ Containers columns
     margin-top: 0;
     margin-left: 0;
     margin-right: -.25em;
-    padding-left: 1.875%;
-    padding-right: 1.875%;
+    padding-left: 2.5%;
+    padding-right: 2.5%;
   }
   /* line 89, ../../site/scss/setup/_grid.scss */
   .inline-grid.break-lg .col-1 {
@@ -5430,8 +5430,8 @@ Containers columns
     display: block;
     min-width: 100%;
     text-align: left;
-    margin-left: -1.97368%;
-    margin-right: -1.97368%;
+    margin-left: -2.63158%;
+    margin-right: -2.63158%;
   }
   /* line 55, ../../site/scss/setup/_grid.scss */
   .inline-grid.break-xlg > .col,
@@ -5443,8 +5443,8 @@ Containers columns
     position: relative;
     margin-top: 0;
     margin-left: 0;
-    padding-left: 1.875%;
-    padding-right: 1.875%;
+    padding-left: 2.5%;
+    padding-right: 2.5%;
   }
   /* line 66, ../../site/scss/setup/_grid.scss */
   .inline-grid.break-xlg > .col.middle,
@@ -5868,8 +5868,8 @@ Containers columns
     margin-top: 0;
     margin-left: 0;
     margin-right: -.25em;
-    padding-left: 1.875%;
-    padding-right: 1.875%;
+    padding-left: 2.5%;
+    padding-right: 2.5%;
   }
   /* line 89, ../../site/scss/setup/_grid.scss */
   .inline-grid.break-xlg .col-1 {
@@ -6739,12 +6739,12 @@ hr.spaced-bottom {
 
 /* line 1, ../../site/scss/site-specific/_header.scss */
 header {
-  padding: 11.25% 0;
+  padding: 7.5% 0;
 }
 @media only screen and (min-width: 600px) {
   /* line 1, ../../site/scss/site-specific/_header.scss */
   header {
-    padding: 7.5% 0;
+    padding: 5% 0;
   }
 }
 /* line 7, ../../site/scss/site-specific/_header.scss */
@@ -6851,13 +6851,13 @@ footer .inline-grid .inline-grid {
 
 /* line 37, ../../site/scss/site-specific/_home.scss */
 .project-list {
-  margin-bottom: -3.75%;
-  padding-bottom: 7.5%;
+  margin-bottom: -5%;
+  padding-bottom: 5%;
 }
 /* line 40, ../../site/scss/site-specific/_home.scss */
 .project-list li, .project-list.col {
   position: relative;
-  margin-bottom: 3.75%;
+  margin-bottom: 5%;
 }
 @media only screen and (min-width: 450px) {
   /* line 40, ../../site/scss/site-specific/_home.scss */
@@ -6988,7 +6988,7 @@ footer .inline-grid .inline-grid {
 
 /* line 161, ../../site/scss/site-specific/_home.scss */
 .about {
-  padding: calc(7.5% * 1.15) 0;
+  padding: calc(5% * 1.15) 0;
   min-height: calc(100vh - 6rem);
   display: flex;
   align-items: center;
@@ -7039,7 +7039,7 @@ footer .inline-grid .inline-grid {
 
 /* line 6, ../../site/scss/site-specific/_project.scss */
 .project-images *[class^="col"] {
-  margin-bottom: 7.5%;
+  margin-bottom: 5%;
 }
 @media only screen and (min-width: 600px) {
   /* line 12, ../../site/scss/site-specific/_project.scss */
@@ -7048,7 +7048,7 @@ footer .inline-grid .inline-grid {
     padding-right: 0 !important;
     margin-left: -3px !important;
     margin-right: -3px !important;
-    width: calc(50% - (3.75%/2 - 1px)) !important;
+    width: calc(50% - (5%/2 - 1px)) !important;
   }
   /* line 18, ../../site/scss/site-specific/_project.scss */
   .project-images .col-6.no-gutter .web-layout,
@@ -7068,7 +7068,7 @@ footer .inline-grid .inline-grid {
     padding-right: 0 !important;
     margin-left: -3px !important;
     margin-right: -3px !important;
-    width: calc(33.333% - 1.25%) !important;
+    width: calc(33.333% - 1.66667%) !important;
   }
   /* line 40, ../../site/scss/site-specific/_project.scss */
   .project-images .col-4.no-gutter .web-layout,
