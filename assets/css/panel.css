@@ -96,7 +96,7 @@
 
 /* line 6, ../../site/scss/site-specific/_project.scss */
 .project-images *[class^="col"] {
-  margin-bottom: 7.5%;
+  margin-bottom: 5%;
 }
 @media only screen and (min-width: 600px) {
   /* line 12, ../../site/scss/site-specific/_project.scss */
@@ -105,7 +105,7 @@
     padding-right: 0 !important;
     margin-left: -3px !important;
     margin-right: -3px !important;
-    width: calc(50% - (3.75%/2 - 1px)) !important;
+    width: calc(50% - (5%/2 - 1px)) !important;
   }
   /* line 18, ../../site/scss/site-specific/_project.scss */
   .project-images .col-6.no-gutter .web-layout,
@@ -125,7 +125,7 @@
     padding-right: 0 !important;
     margin-left: -3px !important;
     margin-right: -3px !important;
-    width: calc(33.333% - 1.25%) !important;
+    width: calc(33.333% - 1.66667%) !important;
   }
   /* line 40, ../../site/scss/site-specific/_project.scss */
   .project-images .col-4.no-gutter .web-layout,
