@@ -21,7 +21,14 @@ c::set('panel.stylesheet', 'assets/css/panel.css');
 
 // Enable Kirby StaticBuilder locally
 c::set([
-	'staticbuilder' => true
+	'staticbuilder'            => true,
+  'staticbuilder.outputdir'  => 'static',
+  'staticbuilder.assets'     => ['assets', 'content', 'thumbs'],
+  'staticbuilder.baseurl'    => '.',
+  'staticbuilder.uglyurls'   => false,
+  'staticbuilder.extension'  => '.html',
+  'staticbuilder.filter'     => null,
+  'staticbuilder.withfiles'  => true
 ]);
 
 /*
